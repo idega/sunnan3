@@ -2,9 +2,7 @@
 
 <project>
 	<pomVersion>3</pomVersion>
-	<extend>
-		${idegaweb.application.egov.project.dir}/project.xml
-	</extend>
+	<extend>${idegaweb.application.egov.project.dir}/project.xml</extend>
 	<name>sunnan3</name>
 	<groupId>iw-applications</groupId>
 	<artifactId>sunnan3</artifactId>

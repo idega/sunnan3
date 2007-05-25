@@ -4,6 +4,12 @@
 		<author email="palli@idega.com">Pall Helgason</author>
 	</properties>
 	<body>
+		<release version="3.1.1" date="2007-05-25">
+			<action dev="palli" type="update">
+				Updated afterschoolcare to fix check for mobile phone in printout.
+			</action>
+		</release>
+
 		<release version="3.1.0" date="2007-02-27">
 			<action dev="palli" type="update">New version for platform version 3.1.0</action>
 		</release>

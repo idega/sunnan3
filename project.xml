@@ -6,7 +6,7 @@
   <name>sunnan3</name>
   <groupId>iw-applications</groupId>
   <artifactId>sunnan3</artifactId>
-  <currentVersion>3.1.0</currentVersion>
+  <currentVersion>3.1.1</currentVersion>
   <inceptionYear>2007</inceptionYear>
   <shortDescription>This is the eGov Application of idegaWeb for the Sunnan3 project</shortDescription>
   <versions>
@@ -169,7 +169,7 @@
     <dependency>
       <groupId>bundles</groupId>
       <artifactId>is.idega.idegaweb.egov.afterschoolcare</artifactId>
-      <version>1.0.43</version>
+      <version>1.0.44</version>
       <type>iwbar</type>
       <url>http://www.idega.com</url>
     </dependency>

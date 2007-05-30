@@ -6,7 +6,7 @@
   <name>sunnan3</name>
   <groupId>iw-applications</groupId>
   <artifactId>sunnan3</artifactId>
-  <currentVersion>3.1.1</currentVersion>
+  <currentVersion>3.1.2</currentVersion>
   <inceptionYear>2007</inceptionYear>
   <shortDescription>This is the eGov Application of idegaWeb for the Sunnan3 project</shortDescription>
   <versions>
@@ -19,6 +19,11 @@
       <id>3.1.1</id>
       <name>3.1.1</name>
       <tag>SUNNAN3_3_1_1</tag>
+    </version>
+    <version>
+      <id>3.1.2</id>
+      <name>3.1.2</name>
+      <tag>SUNNAN3_3_1_2</tag>
     </version>
   </versions>
   <branches/>

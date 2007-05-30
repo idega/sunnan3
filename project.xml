@@ -174,7 +174,7 @@
     <dependency>
       <groupId>bundles</groupId>
       <artifactId>is.idega.idegaweb.egov.afterschoolcare</artifactId>
-      <version>1.0.44</version>
+      <version>1.0.45</version>
       <type>iwbar</type>
       <url>http://www.idega.com</url>
     </dependency>

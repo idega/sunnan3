@@ -4,6 +4,12 @@
 		<author email="palli@idega.com">Pall Helgason</author>
 	</properties>
 	<body>
+		<release version="3.1.2" date="2007-05-30">
+			<action dev="palli" type="update">
+				AfterSchoolCare: Added fields to pdf printout of application and fixed the display of the elementary school.
+			</action>
+		</release>
+
 		<release version="3.1.1" date="2007-05-25">
 			<action dev="palli" type="update">
 				Updated afterschoolcare to fix check for mobile phone in printout.

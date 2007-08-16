@@ -7,14 +7,14 @@
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.category.bundle,com.idega.block.category,BRANCH_PLATFORM_3_1"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.contract.bundle,com.idega.block.contract"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.dataquery.bundle,com.idega.block.dataquery"/>
-<project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.datareport.bundle,com.idega.block.datareport"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.datareport.bundle,com.idega.block.datareport,BRANCH_PLATFORM_3_1"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.documents.bundle,com.idega.block.documents"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.finance.bundle,com.idega.block.finance"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.ldap.bundle,com.idega.block.ldap"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.pdf.bundle,com.idega.block.pdf"/>
-<project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.poll.bundle,com.idega.block.poll"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.poll.bundle,com.idega.block.poll,BRANCH_PLATFORM_3_1"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.process.webservice.bundle,com.idega.block.process.webservice,BRANCH_PLATFORM_3_1"/>
-<project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.questions.bundle,com.idega.block.questions"/>
+<project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.questions.bundle,com.idega.block.questions,BRANCH_PLATFORM_3_1"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.reports.bundle,com.idega.block.reports"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.school.bundle,com.idega.block.school"/>
 <project reference="1.0,:extssh:code.idega.com:/idega/cvs,bundles/com.idega.block.survey.bundle,com.idega.block.survey"/>

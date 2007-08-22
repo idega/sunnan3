@@ -6,7 +6,7 @@
   <name>sunnan3</name>
   <groupId>iw-applications</groupId>
   <artifactId>sunnan3</artifactId>
-  <currentVersion>3.1.2</currentVersion>
+  <currentVersion>3.1.3</currentVersion>
   <inceptionYear>2007</inceptionYear>
   <shortDescription>This is the eGov Application of idegaWeb for the Sunnan3 project</shortDescription>
   <versions>
@@ -24,6 +24,11 @@
       <id>3.1.2</id>
       <name>3.1.2</name>
       <tag>SUNNAN3_3_1_2</tag>
+    </version>
+    <version>
+      <id>3.1.3</id>
+      <name>3.1.3</name>
+      <tag>SUNNAN3_3_1_3</tag>
     </version>
   </versions>
   <branches/>
@@ -135,7 +140,7 @@
     <dependency>
       <groupId>bundles</groupId>
       <artifactId>com.idega.block.school</artifactId>
-      <version>3.1.14</version>
+      <version>3.1.15</version>
       <type>iwbar</type>
       <url>http://www.idega.com</url>
     </dependency>
@@ -158,7 +163,7 @@
     <dependency>
       <groupId>bundles</groupId>
       <artifactId>is.idega.idegaweb.egov</artifactId>
-      <version>1.0.10</version>
+      <version>1.0.11</version>
       <type>iwbar</type>
       <url>http://www.idega.com</url>
     </dependency>
@@ -172,42 +177,42 @@
     <dependency>
       <groupId>bundles</groupId>
       <artifactId>is.idega.idegaweb.egov.school</artifactId>
-      <version>1.0.17</version>
+      <version>1.0.19</version>
       <type>iwbar</type>
       <url>http://www.idega.com</url>
     </dependency>
     <dependency>
       <groupId>bundles</groupId>
       <artifactId>is.idega.idegaweb.egov.afterschoolcare</artifactId>
-      <version>1.0.45</version>
+      <version>1.0.50</version>
       <type>iwbar</type>
       <url>http://www.idega.com</url>
     </dependency>
     <dependency>
       <groupId>bundles</groupId>
       <artifactId>is.idega.idegaweb.egov.childcare</artifactId>
-      <version>1.0.17</version>
+      <version>1.0.18</version>
       <type>iwbar</type>
       <url>http://www.idega.com</url>
     </dependency>
     <dependency>
       <groupId>bundles</groupId>
       <artifactId>is.idega.idegaweb.egov.musicschool</artifactId>
-      <version>1.0.22</version>
+      <version>1.0.24</version>
       <type>iwbar</type>
       <url>http://www.idega.com</url>
     </dependency>
     <dependency>
       <groupId>bundles</groupId>
       <artifactId>is.idega.idegaweb.egov.citizen</artifactId>
-      <version>1.0.17</version>
+      <version>1.0.20</version>
       <type>iwbar</type>
       <url>http://www.idega.com</url>
     </dependency>
     <dependency>
       <groupId>bundles</groupId>
       <artifactId>is.idega.idegaweb.egov.application</artifactId>
-      <version>1.0.12</version>
+      <version>1.0.13</version>
       <type>iwbar</type>
       <url>http://www.idega.com</url>
     </dependency>
@@ -235,7 +240,7 @@
     <dependency>
       <groupId>bundles</groupId>
       <artifactId>is.idega.idegaweb.egov.schoolmeal</artifactId>
-      <version>1.0.34</version>
+      <version>1.0.35</version>
       <type>iwbar</type>
       <url>http://www.idega.com</url>
     </dependency>
